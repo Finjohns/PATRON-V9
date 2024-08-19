@@ -2384,7 +2384,7 @@ klik https://wa.me/${botNumber.split`@`[0]}`,
                   ...(await prepareWAMessageMedia(
                     {
                       image: {
-                        url: "https://telegra.ph/file/59b148e5d18aa4b94f730.jpg",
+                        url: "https://i.imgur.com/CfCJ43k.jpeg",
                       },
                     },
                     { upload: ryozingod.waUploadToServer }
@@ -2658,14 +2658,14 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
       💀  *𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆* 💀
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-    *CREATOR : PATRON 🚹*
+    *CREATOR : JINWIIL 🚹*
     *LIBRARY : THE ONE*
     *Status : READY*
     *MODE : ${ryozingod.self ? "✱ Public ༣" : "✲ Self ༣"}*
     *USERS : 2*
     *PREFIX : MULTI*
 
-     \`PATRON MENU\`
+     \`JINWIIL MENU\`
 
     \`⭔${prefix}killmenu\`
     \`⭔${prefix}ddosmenu\`
@@ -2754,7 +2754,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                             {
                               name: "cta_url",
                               buttonParamsJson:
-                                '{"display_text":"JOIN CHANNEL","url":"https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q","merchant_url":"https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q"}',
+                                '{"display_text":"JOIN CHANNEL","url":"https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41","merchant_url":"https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41"}',
                             },
                           ],
                           messageParamsJson: "",
@@ -2796,7 +2796,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           buttons: [
                             {
                               name: "cta_url",
-                              buttonParamsJson: `{ display_text : 'JOIN CHANNEL🚹', url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", merchant_url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q" }`,
+                              buttonParamsJson: `{ display_text : 'JOIN CHANNEL🚹', url : "https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41", merchant_url : "https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41" }`,
                             },
                           ],
                           messageParamsJson: "",
@@ -2823,13 +2823,13 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
       💀  *𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆* 💀
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-    *CREATOR : PATRON 🚹*
+    *CREATOR : JINWIIL 🚹*
     *LIBRARY : THE ONE*
     *Status : READY*
     *MODE : ${ryozingod.self ? "✱ Public ༣" : "✲ Self ༣"}*
     *USERS : 2*
     *PREFIX : MULTI*
-      https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q
+      https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41
 
 ╭❐   \`Owner/Custom Cmd\` 
 │
@@ -3104,7 +3104,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           isForwarded: true,
                           forwardedNewsletterMessageInfo: {
                             newsletterJid: "0@newsletter",
-                            newsletterName: "𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆",
+                            newsletterName: "JINWIIL 𝛁1 𝚩𝐔𝐆",
                             serverMessageId: 1,
                           },
                         },
@@ -3127,7 +3127,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                             {
                               name: "quick_reply",
                               buttonParamsJson:
-                                '{"display_text":"JOIN CHANNEL\nhttps://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q","id":".follow"}',
+                                '{"display_text":"JOIN CHANNEL\nhttps://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41","id":".follow"}',
                             },
                           ],
                           messageParamsJson: "",
@@ -3169,7 +3169,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           buttons: [
                             {
                               name: "cta_url",
-                              buttonParamsJson: `{ display_text : '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆', url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", merchant_url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q" }`,
+                              buttonParamsJson: `{ display_text : '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆', url : "https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41", merchant_url : "https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41" }`,
                             },
                           ],
                           messageParamsJson: "",
@@ -3195,14 +3195,14 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
       💀  *𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆* 💀
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-    *CREATOR : PATRON 🚹*
+    *CREATOR : JINWIIL 🚹*
     *LIBRARY : THE ONE*
     *Status : READY*
     *MODE : ${ryozingod.self ? "✱ Public ༣" : "✲ Self ༣"}*
     *USERS : 2*
     *PREFIX : MULTI*
 
-    https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q
+    https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41
     
          \`kill Menu\`
  ▬▭▬▭▬▭▬▭▬▬▭▬▭▬	
@@ -3234,7 +3234,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
  ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
      ${prefix}idnull 62878###
  ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-     ${prefix}patron-bug 62878###
+     ${prefix}jinwiil-bug 62878###
  ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
      ${prefix}starforce 62878###
  ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -3280,7 +3280,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           isForwarded: true,
                           forwardedNewsletterMessageInfo: {
                             newsletterJid: "0@newsletter",
-                            newsletterName: "PATRON 🚹 & 𝙱𝙻𝚄𝙴 🌀 𝙳𝙴𝙼𝙾𝙽 ",
+                            newsletterName: "JINWIIL 🚹 & 𝙱𝙻𝚄𝙴 🌀 𝙳𝙴𝙼𝙾𝙽 ",
                             serverMessageId: 1,
                           },
                         },
@@ -3303,7 +3303,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                             {
                               name: "quick_reply",
                               buttonParamsJson:
-                                '{"display_text":"*HEY*\n*PLS DO WELL TO FOLLOW MY CHANNEL*, https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q","id":".channel"}',
+                                '{"display_text":"*HEY*\n*PLS DO WELL TO FOLLOW MY CHANNEL*, https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41","id":".channel"}',
                             },
                           ],
                           messageParamsJson: "",
@@ -3323,7 +3323,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           isForwarded: true,
                           forwardedNewsletterMessageInfo: {
                             newsletterJid: "0@newsletter",
-                            newsletterName: "PATRON 🚹 & 𝙱𝙻𝚄𝙴 🌀 𝙳𝙴𝙼𝙾𝙽",
+                            newsletterName: "JINWIIL 🚹 & 𝙱𝙻𝚄𝙴 🌀 𝙳𝙴𝙼𝙾𝙽",
                             serverMessageId: 1,
                           },
                         },
@@ -3339,13 +3339,13 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           text: "",
                         },
                         footer: {
-                          text: "PATRON 🚹 & BLUE DEMON",
+                          text: "JINWIIL 🚹 & BLUE DEMON",
                         },
                         nativeFlowMessage: {
                           buttons: [
                             {
                               name: "cta_url",
-                              buttonParamsJson: `{ display_text : 'JOIN CHANNEL ', url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", merchant_url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q" }`,
+                              buttonParamsJson: `{ display_text : 'JOIN CHANNEL ', url : "https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41", merchant_url : "https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41" }`,
                             },
                           ],
                           messageParamsJson: "",
@@ -3371,14 +3371,14 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
       💀  *𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆* 💀
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-    *CREATOR : PATRON 🚹*
+    *CREATOR : JINWIIL 🚹*
     *LIBRARY : THE ONE*
     *Status : READY*
     *MODE : ${ryozingod.self ? "✱ Public ༣" : "✲ Self ༣"}*
     *USERS : 2*
     *PREFIX : MULTI* 
 
-    https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q
+    https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41
 
 ╭❐  *Ddos Menu*
 │
@@ -3406,7 +3406,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           isForwarded: true,
                           forwardedNewsletterMessageInfo: {
                             newsletterJid: "0@newsletter",
-                            newsletterName: "PATRON 🚹 & 𝙱𝙻𝚄𝙴 🌀 𝙳𝙴𝙼𝙾𝙽",
+                            newsletterName: "JINWIIL 🚹 & 𝙱𝙻𝚄𝙴 🌀 𝙳𝙴𝙼𝙾𝙽",
                             serverMessageId: 1,
                           },
                         },
@@ -3464,13 +3464,13 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                           text: "",
                         },
                         footer: {
-                          text: "*PATRON*",
+                          text: "*JINWIIL*",
                         },
                         nativeFlowMessage: {
                           buttons: [
                             {
                               name: "cta_url",
-                              buttonParamsJson: `{ display_text : 'JOIN CHANNEL', url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", merchant_url : "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q" }`,
+                              buttonParamsJson: `{ display_text : 'JOIN CHANNEL', url : "https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41", merchant_url : "https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41" }`,
                             },
                           ],
                           messageParamsJson: "",
@@ -3511,7 +3511,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
       💀  *𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆* 💀
    ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-    *CREATOR : PATRON 🚹*
+    *CREATOR : JINWIIL 🚹*
     *LIBRARY : THE ONE*
     *Status : READY*
     *MODE : ${ryozingod.self ? "✱ Public ༣" : "✲ Self ༣"}*
@@ -3520,7 +3520,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
     *Resp Speed : ${latensi.toFixed(4)}*
     *Ram : ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}*
     *Runtime : ${run}*
-    https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q
+    https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41
 `);
               }
               break;
@@ -3582,11 +3582,11 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
               {
                 joreply(`𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆 SCRIPT 👇
 
-🌐 *_Git:_* https://github.com/Itzpatron/PATRON-V1
+🌐 *_Git:_* https://github.com/finjohns/PATRON-V1
 
-🪀 *_Group:_* https://chat.whatsapp.com/HSC7DAJOD9nBKbl7CmxxLb
+🪀 *_Group:_* https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41
 
-🪀 *_Channel:_* https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q
+🪀 *_Channel:_* https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41
 
 🚹 *_The Devs:_* https://t.me/textpatron_bot and https://tinyurl.com/2xrw69su`);
               }
@@ -3615,7 +3615,7 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
 + anti ddos
 + guarantee 24hr
 + fast
-*CHAT  𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽* : wa.me/2347041039367`,
+*CHAT  𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽* : wa.me/254769365617`,
                   },
                   { quoted: m }
                 );
@@ -3627,9 +3627,9 @@ console.log(chalk.black(chalk.bgWhite('[ PESAN ]')), chalk.black(chalk.bgGreen(n
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `*ACCOUNT-8133729715*
-*BANK-OPAY*
-*NAME-FADARE*`,
+                    text: `*ACCOUNT-onginjokelvin31@gmail.com*
+*BANK-PAYPAL*
+*NAME-ONGINJO*`,
                   },
                   { quoted: m }
                 );
@@ -3713,7 +3713,7 @@ Hi
               break;
             case "owner":
             case "botowner":
-              let namaown = `PATRON 🚹`;
+              let namaown = `JINWIIL 🚹`;
               var contact = generateWAMessageFromContent(
                 m.chat,
                 proto.Message.fromObject({
@@ -3756,7 +3756,7 @@ Hi
                 ryozingod.sendMessage(
                   m.chat,
                   {
-                    text: `https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q 
+                    text: `https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41 
 *PLS JOIN AND ALWAYS SUPPORT US 😃*`,
                   },
                   { quoted: m }
@@ -3768,7 +3768,7 @@ Hi
               {
                 ryozingod.sendMessage(
                   m.chat,
-                  { text: `*FATHER OF PATRON*` },
+                  { text: `*FATHER OF JINWIIL*` },
                   { quoted: m }
                 );
               }
