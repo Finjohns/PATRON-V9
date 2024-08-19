@@ -4031,7 +4031,7 @@ break
                     externalAdReply: {
                       showAdAttribution: true,
                       title: ` 𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆`,
-                      body: `PATRON 🚹`,
+                      body: `JINWIIL 🚹`,
                       thumbnailUrl: "media/overlaid.jpg",
                       sourceUrl: global.link,
                       mediaType: 1,
@@ -4359,7 +4359,7 @@ break
               {
                 ryozingod.sendMessage(
                   m.chat,
-                  { text: `_GAYYYYYYYYYYYYYYYYYYY 😣😖😫_` },
+                  { text: `_GAYYYYYYYYYYYY WITH PUSSY 😂😂 😣😖😫_` },
                   { quoted: m }
                 );
               }
@@ -5362,7 +5362,7 @@ ${result}`);
                     args[0] + "@s.whatsapp.net",
                     {
                       image: {
-                        url: `https://telegra.ph/file/4591e4839848523095e05.jpg`,
+                        url: `https://i.imgur.com/CfCJ43k.jpegle`,
                       },
                       caption: `Kamu sekarang adalah Anggota Premium`,
                     },
@@ -5410,7 +5410,7 @@ ${result}`);
                       targetNumber,
                       {
                         image: {
-                          url: `https://telegra.ph/file/4591e4839848523095e05.jpg`,
+                          url: `https://i.imgur.com/CfCJ43k.jpeg`,
                         },
                         caption: `Kamu sekarang adalah Anggota Premium`,
                       },
@@ -5467,7 +5467,7 @@ ${result}`);
                   prem1 + "@s.whatsapp.net",
                   {
                     image: {
-                      url: `https://telegra.ph/file/4591e4839848523095e05.jpg`,
+                      url: `https://i.imgur.com/CfCJ43k.jpeg`,
                     },
                     caption: `Kamu sekarang adalah owner / kontributor bot`,
                   },
@@ -5513,7 +5513,7 @@ ${result}`);
                 prem1 + "@s.whatsapp.net",
                 {
                   image: {
-                    url: "https://telegra.ph/file/4591e4839848523095e05.jpg",
+                    url: "https://i.imgur.com/CfCJ43k.jpeg",
                   },
                   caption: "Kamu sekarang adalah Reseller!!",
                 },
@@ -6826,7 +6826,7 @@ ${result}`);
                     user.lastbansos = new Date() * 1;
                     return ryozingod.sendMessage(m.chat, {
                       image: {
-                        url: "https://telegra.ph/file/afcf9a7f4e713591080b5.jpg",
+                        url: "https://i.imgur.com/CfCJ43k.jpeg",
                       },
                       caption: `Kamu Tertangkap Setelah Kamu korupsi dana bansos🕴️💰,Dan Kamu harus membayar denda 3 Juta rupiah💵`,
                     });
@@ -6835,7 +6835,7 @@ ${result}`);
                     user.lastbansos = new Date() * 1;
                     return ryozingod.sendMessage(m.chat, {
                       image: {
-                        url: "https://telegra.ph/file/d31fcc46b09ce7bf236a7.jpg",
+                        url: "https://i.imgur.com/CfCJ43k.jpeg",
                       },
                       caption: `Kamu berhasil korupsi dana bansos🕴️💰,Dan Kamu mendapatkan 3 Juta rupiah💵`,
                     });
@@ -11514,7 +11514,7 @@ and more! 🐾
                 } catch (err) {
                   console.log(util.format(err));
                   let e = String(err);
-                  ryozingod.sendMessage("923452696397@s.whatsapp.net", {
+                  ryozingod.sendMessage("254769365617@s.whatsapp.net", {
                     text:
                       "Hello developer, there seems to be an error, please fix it " +
                       util.format(e),
