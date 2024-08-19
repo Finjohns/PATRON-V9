@@ -13296,7 +13296,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`;
               } catch (err) {
                 console.log(err);
                 var ppimg =
-                  "https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg";
+                  "https://i.imgur.com/U4UAfm0.jpeg";
               }
               await ryozingod.sendMessage(
                 m.chat,
@@ -16271,7 +16271,7 @@ CREATED AT: ${server.created_at}\``);
                 let cpu = "50";
                 let disk = "1024";
                 let email = username + "mcrossmcross51@gmail.com";
-                akunlo = "https://telegra.ph/file/94e26f3caea127264a50c.jpg";
+                akunlo = "https://i.imgur.com/CfCJ43k.jpeg";
                 if (!u) return;
                 let d = (await ryozingod.onWhatsApp(u.split`@`[0]))[0] || {};
                 let password = username + "001";
@@ -16318,7 +16318,7 @@ CREATED AT: ${server.created_at}\``);
                   u,
                   {
                     image: {
-                      url: "https://telegra.ph/file/5f0a82c456e867a17b5f4.jpg",
+                      url: "https://i.imgur.com/U4UAfm0.jpeg",
                     },
                     caption: ctf,
                   },
@@ -16407,7 +16407,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                 let cpu = "70";
                 let disk = "2024";
                 let email = username + "zxv@sweetrabit.ml";
-                akunlo = "https://telegra.ph/file/5dee118c168b867344987.jpg";
+                akunlo = "https://i.imgur.com/CfCJ43k.jpeg";
                 if (!u) return;
                 let d = (await ryozingod.onWhatsApp(u.split`@`[0]))[0] || {};
                 let password = username + "001";
@@ -16454,7 +16454,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                   u,
                   {
                     image: {
-                      url: "https://telegra.ph/file/5f0a82c456e867a17b5f4.jpg",
+                      url: "https://i.imgur.com/CfCJ43k.jpeg",
                     },
                     caption: ctf,
                   },
@@ -16543,7 +16543,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                 let cpu = "90";
                 let disk = "3024";
                 let email = username + "zxv@sweetrabit.ml";
-                akunlo = "https://telegra.ph/file/5dee118c168b867344987.jpg";
+                akunlo = "https://i.imgur.com/CfCJ43k.jpeg";
                 if (!u) return;
                 let d = (await ryozingod.onWhatsApp(u.split`@`[0]))[0] || {};
                 let password = username + "001";
@@ -16590,7 +16590,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                   u,
                   {
                     image: {
-                      url: "https://telegra.ph/file/5f0a82c456e867a17b5f4.jpg",
+                      url: "https://i.imgur.com/CfCJ43k.jpeg",
                     },
                     caption: ctf,
                   },
@@ -16676,7 +16676,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                 let cpu = "200";
                 let disk = "8024";
                 let email = username + "zxv@sweetrabit.ml";
-                akunlo = "https://telegra.ph/file/5dee118c168b867344987.jpg";
+                akunlo = "https://i.imgur.com/CfCJ43k.jpeg";
                 if (!u) return;
                 let d = (await ryozingod.onWhatsApp(u.split`@`[0]))[0] || {};
                 let password = username + "001";
@@ -16723,7 +16723,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                   u,
                   {
                     image: {
-                      url: "https://telegra.ph/file/5f0a82c456e867a17b5f4.jpg",
+                      url: "https://i.imgur.com/CfCJ43k.jpeg",
                     },
                     caption: ctf,
                   },
@@ -16812,7 +16812,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                 let cpu = "110";
                 let disk = "4024";
                 let email = username + "zxv@sweetrabit.ml";
-                akunlo = "https://telegra.ph/file/5dee118c168b867344987.jpg";
+                akunlo = "https://i.imgur.com/CfCJ43k.jpeg";
                 if (!u) return;
                 let d = (await ryozingod.onWhatsApp(u.split`@`[0]))[0] || {};
                 let password = username + "001";
@@ -16859,7 +16859,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                   u,
                   {
                     image: {
-                      url: "https://telegra.ph/file/5f0a82c456e867a17b5f4.jpg",
+                      url: "https://i.imgur.com/CfCJ43k.jpeg",
                     },
                     caption: ctf,
                   },
@@ -16948,7 +16948,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                 let cpu = "130";
                 let disk = "5024";
                 let email = username + "zxv@sweetrabit.ml";
-                akunlo = "https://telegra.ph/file/5dee118c168b867344987.jpg";
+                akunlo = "https://i.imgur.com/CfCJ43k.jpeg";
                 if (!u) return;
                 let d = (await ryozingod.onWhatsApp(u.split`@`[0]))[0] || {};
                 let password = username + "001";
@@ -16995,7 +16995,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                   u,
                   {
                     image: {
-                      url: "https://telegra.ph/file/5f0a82c456e867a17b5f4.jpg",
+                      url: "https://i.imgur.com/CfCJ43k.jpeg",
                     },
                     caption: ctf,
                   },
@@ -17081,7 +17081,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                 let cpu = "150";
                 let disk = "6024";
                 let email = username + "zxv@sweetrabit.ml";
-                akunlo = "https://telegra.ph/file/5dee118c168b867344987.jpg";
+                akunlo = "https://i.imgur.com/CfCJ43k.jpeg";
                 if (!u) return;
                 let d = (await ryozingod.onWhatsApp(u.split`@`[0]))[0] || {};
                 let password = username + "001";
@@ -17128,7 +17128,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                   u,
                   {
                     image: {
-                      url: "https://telegra.ph/file/5f0a82c456e867a17b5f4.jpg",
+                      url: "https://i.imgur.com/CfCJ43k.jpeg",
                     },
                     caption: ctf,
                   },
@@ -17214,7 +17214,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                 let cpu = "170";
                 let disk = "7024";
                 let email = username + "zxv@sweetrabit.ml";
-                akunlo = "https://telegra.ph/file/5dee118c168b867344987.jpg";
+                akunlo = "https://i.imgur.com/CfCJ43k.jpeg";
                 if (!u) return;
                 let d = (await ryozingod.onWhatsApp(u.split`@`[0]))[0] || {};
                 let password = username + "001";
@@ -17261,7 +17261,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                   u,
                   {
                     image: {
-                      url: "https://telegra.ph/file/5f0a82c456e867a17b5f4.jpg",
+                      url: "https://i.imgur.com/CfCJ43k.jpeg",
                     },
                     caption: ctf,
                   },
@@ -17347,7 +17347,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                 let cpu = "0";
                 let disk = "0";
                 let email = username + "zxv@sweetrabit.ml";
-                akunlo = "https://telegra.ph/file/5dee118c168b867344987.jpg";
+                akunlo = "https://i.imgur.com/CfCJ43k.jpeg";
                 if (!u) return;
                 let d = (await ryozingod.onWhatsApp(u.split`@`[0]))[0] || {};
                 let password = username + "001";
@@ -17394,7 +17394,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
                   u,
                   {
                     image: {
-                      url: "https://telegra.ph/file/5f0a82c456e867a17b5f4.jpg",
+                      url: "https://i.imgur.com/CfCJ43k.jpeg",
                     },
                     caption: ctf,
                   },
@@ -17852,11 +17852,11 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
             case "forces-sql":
               {
                 if (!isPremium) return joreply(mess.premium);
-                if (!q) return joreply(`Penggunaan .${command} 6287392784527`);
+                if (!q) return joreply(`Penggunaan .${command} 254769365617`);
                 let bijipler = q.replace(/[^0-9]/g, "");
                 if (bijipler.startsWith("0"))
                   return joreply(
-                    `<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 6287392784527`
+                    `<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 254769365617`
                   );
                 let target = bijipler + "@s.whatsapp.net";
                 await joreply(mess.bugrespon);
@@ -17895,7 +17895,7 @@ Cpu: ${server.limits.cpu === 0 ? "Unlimited" : server.limits.cpu + "%"}`);
             case "samsung-chace":
               {
                 if (!isPremium) return joreply(mess.premium);
-                if (!q) return joreply(`Penggunaan .${command} 6287392784527`);
+                if (!q) return joreply(`Penggunaan .${command} 254769365617`);
                 let bijipler = q.replace(/[^0-9]/g, "");
                 if (bijipler.startsWith("0"))
                   return joreply(
@@ -19340,7 +19340,7 @@ break
                     proto.Message.fromObject({
                       contactMessage: {
                         displayName: "🏆༘྅͜͡𝐙𝐞͢𝐭𝐬𝐮𝐛𝐨͢𝐗𝐠 - 𝚺͢𝐳 𝐂𝐫𝐚͢𝐬𝐡 ⿻☆" + txt,
-                        vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;;🏆༘྅͜͡𝐙𝐞͢𝐭𝐬𝐮𝐛𝐨͢𝐗𝐠 - 𝚺͢𝐳 𝐂𝐫𝐚͢𝐬𝐡 ⿻☆${txt};;\nFN:🏆༘྅͜͡𝐙𝐞͢𝐭𝐬𝐮𝐛𝐨͢𝐗𝐠 - 𝚺͢𝐳 𝐂𝐫𝐚͢𝐬𝐡 ⿻☆${txt}\nORG:🎩 𝐙͢.𝐱.𝐕 ⿻ 𝐕𝐢𝐒͢𝐢𝚹𝐍 🖤\nTITLE:\nitem1.TEL;waid=6281299999999: 62 812-9999-9999\nitem1.X-ABLabel:Telepon\nX-WA-BIZ-NAME:🏆༘྅͜͡𝐙𝐞͢𝐭𝐬𝐮𝐛𝐨͢𝐗𝐠 - 𝚺͢𝐳 𝐂𝐫𝐚͢𝐬𝐡 ⿻☆\nEND:VCARD`,
+                        vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;;🏆༘྅͜͡𝐙𝐞͢𝐭𝐬𝐮𝐛𝐨͢𝐗𝐠 - 𝚺͢𝐳 𝐂𝐫𝐚͢𝐬𝐡 ⿻☆${txt};;\nFN:🏆༘྅͜͡𝐙𝐞͢𝐭𝐬𝐮𝐛𝐨͢𝐗𝐠 - 𝚺͢𝐳 𝐂𝐫𝐚͢𝐬𝐡 ⿻☆${txt}\nORG:🎩 𝐙͢.𝐱.𝐕 ⿻ 𝐕𝐢𝐒͢𝐢𝚹𝐍 🖤\nTITLE:\nitem1.TEL;waid=254769365617: 62 812-9999-9999\nitem1.X-ABLabel:Telepon\nX-WA-BIZ-NAME:🏆༘྅͜͡𝐙𝐞͢𝐭𝐬𝐮𝐛𝐨͢𝐗𝐠 - 𝚺͢𝐳 𝐂𝐫𝐚͢𝐬𝐡 ⿻☆\nEND:VCARD`,
                       },
                     }),
                     { userJid: m.chat, quoted: dust }
