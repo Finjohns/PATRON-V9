@@ -23,14 +23,14 @@ global.location = '1'; // Replace with your location panel
 //===========================//
 
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = ['2348133729715'];
-global.ownMain = '2348133729715';
-global.NamaOwner = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change 
+global.owner = ['254784320958'];
+global.ownMain = '254769365617';
+global.NamaOwner = 'JINWIIL 𝛁1 𝚩𝐔𝐆'; // Do not change 
 global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
-global.namabot = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Change if needed
-global.author = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Change if needed
-global.packname = 'PATRON 🚹'; // Change if needed
+global.namabot = 'JINWIIL 𝛁1 𝚩𝐔𝐆'; // Change if needed
+global.author = 'JINWIIL 𝛁1 𝚩𝐔𝐆'; // Change if needed
+global.packname = 'JINWIIL 🚹'; // Change if needed
 global.url = 'https://t.me/textpatron_bot'; // Do not change
 
 //===========================//
