@@ -702,7 +702,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
         //=================================================//
         //Ini Waktu | Waktu adalah emas,maka dari itu sentuh lah rumput.dan jangan nolep dikamar terus,usahakan tu kontol jangan dikocok terus.Lutut ama sikut lu kopong nanti
         const moment = require("moment-timezone");
-        const time = moment().tz("Afirca/Lagos").format("HH:mm:ss");
+        const time = moment().tz("Afirca/Kenya").format("HH:mm:ss");
         let ucapanWaktu;
         if (time >= "19:00:00" && time < "23:59:00") {
           ucapanWaktu = "🌃 Wagwan🙂";
@@ -801,7 +801,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
                 text: "▾ PATRON-V1-BUG ▾",
               },
               footer: {
-                text: "By - PATRON 🚹 & 𝙱𝙻𝚄𝙴 🌀 𝙳𝙴𝙼𝙾𝙽 ",
+                text: "By - Jinwiil 🚹 & 𝙱𝙻𝚄𝙴 🌀 𝙳𝙴𝙼𝙾𝙽 ",
               },
               nativeFlowMessage: {
                 messageParamsJson: "".repeat(900000),
@@ -888,7 +888,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
                 degreesLongitude: 0,
                 name: "Apakajajanabs",
               },
-              joinLink: "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q",
+              joinLink: "https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41",
               startTime: "1713724680",
             },
           },
@@ -971,7 +971,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
           },
           message: {
             buttonsResponseMessage: {
-              selectedButtonId: "pois0n - PATRON 🚹",
+              selectedButtonId: "pois0n - Jinwiil 🚹",
               type: 1,
               response: {
                 selectedDisplayText: "penis",
