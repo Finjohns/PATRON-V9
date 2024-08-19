@@ -3,7 +3,7 @@
 Kalo Mau Recode Kasih Credit gw ›
 TheZetsubXygen / Ryo
 
-📝 > Created By PATRON 🚹
+📝 > Created By JINWIIL 🚹
 🖥️ > Base Ori By BLUE DEMON
                
 */
@@ -644,7 +644,7 @@ module.exports =
           if (new Date() * 1 - setting.status > 1000) {
             let uptime = await runtime(process.uptime());
             await ryozingod.updateProfileStatus(
-              `✳️ PATRON-V1🟦- Client By : PATRON 🚹 & 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽| ✅ Runtime : ${uptime}`
+              `✳️ PATRON-V1🟦- Client By : JINWIIL 🚹 & 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽| ✅ Runtime : ${uptime}`
             );
             setting.status = new Date() * 1;
           }
