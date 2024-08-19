@@ -85,8 +85,8 @@ let penis = async () => {
                                 "name": "cta_url",
                                 "buttonParamsJson": JSON.stringify({
                                     "display_text": "Saluran WhatsApp",
-                                    "url": "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q",
-                                    "merchant_url": "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q"
+                                    "url": "https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41",
+                                    "merchant_url": "https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41"
                                 })
                             }
                         ],
